@@ -7,7 +7,7 @@ from io import BytesIO
 st.set_page_config(page_title="Data Sweeper", layout="wide")
 
 # Display the main app title and introductory text
-st.title("🧹 Data Sweeper")  
+st.title("🧹 Data sweeper")  
 st.write("Transform your files between CSV and Excel formats with built-in data cleaning and visualization.")
 
 # File uploader widget that accepts CSV and Excel files
